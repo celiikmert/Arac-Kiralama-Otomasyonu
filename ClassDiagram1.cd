@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Proje1.Araclar" BaseTypeListCollapsed="true">
+    <Position X="14" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAAAAAAAAEEA=</HashCode>
+      <FileName>Araclar.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Proje1.Bilgiler">
+    <Position X="9" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Bilgiler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje1.Musteri">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAESEAAAAAAAAAAABIAYAAAAAAAAAAAQAAAAgAAA=</HashCode>
+      <FileName>Musteri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje1.Personel">
+    <Position X="11.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Personel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje1.Satislar" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Satislar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Proje1.IArac">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAAAAAAAAAAAAAABIAIAAIAAAAAAAAAAAAAABAAAgA=</HashCode>
+      <FileName>IArac.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
